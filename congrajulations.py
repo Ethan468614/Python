@@ -1,4 +1,4 @@
-lower = "congrajulations bro "
+lower = input("Enter your word: ")
 
 print(lower.upper())
 

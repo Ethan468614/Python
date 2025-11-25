@@ -1,4 +1,4 @@
-open =str(input("Enter a string"))
+open =str(input("Enter a string "))
 
 revOpen = open[::-1 ]
 
