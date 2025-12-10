@@ -1,4 +1,4 @@
-var = int(input ("enter th value of terms"))
+var = int(input ("enter the value of terms"))
 
 sum = 0 
 
