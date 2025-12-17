@@ -1,0 +1,9 @@
+import math
+
+
+radius = int(input("Enter the radius of the circle: "))
+
+
+circumference = 2 * math.pi * radius
+
+print(f"The circumference is: {circumference}")
