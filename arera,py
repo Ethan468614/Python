@@ -1,0 +1,11 @@
+def hello(i, c):
+    answer = i*c
+    return answer
+
+i = int(input("Enter the vlue of lenth"))
+
+c = int(input("Enter the value of breath"))
+
+answer = hello(i , c)
+
+print(answer)
