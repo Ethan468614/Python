@@ -1,0 +1,13 @@
+#decimal to binary converter
+
+user = float(input("Enter a number: "))
+
+
+m = ""
+
+while user > 0:
+    remainder = user % 2
+    m = str(remainder) + m
+    user = user//2
+
+print(f"binary number is {m}")    

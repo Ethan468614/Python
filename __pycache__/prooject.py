@@ -1,4 +1,3 @@
-#write a python program to calculate the product multiplying all the numbers of the given tuple.
 
 def mult(tup):
     product = 1
